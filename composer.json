@@ -1,5 +1,5 @@
 {
-    "name": "hiqdev/omnipay-bitpay",
+    "name": "martinhess/omnipay-bitpay",
     "type": "library",
     "description": "BitPay driver for Omnipay PHP payment libray",
     "keywords": [
